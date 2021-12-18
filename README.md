@@ -9,13 +9,16 @@
   - File gambar yang sudah dienrkipsi akan tidak bisa dibuka gambarnya dan file berubah ekstensinya menjadi .rda
   - Ketika File gambar didekripsi maka akan muncul kembali gambar aslinya
   - Untuk Penjelasan perscriptprogram sudah saya berikan pada comment dibaris script pada program
+  - File gambar asli sebelum dienkripsi dan file gambar sesudah dienkripsi terletak pada folder dashboard/file_decrypt/ atau dashboard/file_encrypt
 # Untuk Login
   Terdapat 2 Hak Akses yaitu sebagai admin dan user
   
   Administrator
+  
   username    : hanifarafi10
   password    : 123
 
   User
+  
   username    : User
   password    : 123
